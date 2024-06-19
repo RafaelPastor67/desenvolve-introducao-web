@@ -1,0 +1,33 @@
+    /* Color Theme Swatches in Hex */
+/*
+    .destaque { color: #0554F2; }
+.Broker®-App-2-hex { color: #034AA6; }
+    .principal { color: #3D90D9; }
+    .background { color: #F2F2F2; }
+.Broker®-App-5-hex { color: #0D0D0D; }*/
+html{
+    background-color: #F2F2F2;
+    color: #3D90D9;
+    font-size: 20px;
+    font-family: 'ebrima';
+    
+}
+a{
+    color: #0554F2;
+}
+h1{
+    color: #0554F2;
+}
+p{
+    text-indent: 1em;
+}
+h1, h2, h3{
+    text-align: center;
+}
+h1{font-size: 1,8rem;}
+h2{font-size: 1.4rem;}
+h3{font-size: 1.2rem;}
+
+.summary{text-align: right;}
+.main p{line-height: 1.5;}
+abbr{font-variant: small-caps;}

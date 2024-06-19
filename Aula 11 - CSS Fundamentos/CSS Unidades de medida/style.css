@@ -1,0 +1,21 @@
+html{
+    font-size: 20px;
+}
+html h1{
+    font-size: 2rem;
+}
+h1>.principal{
+    font-size: 1.4em;
+}
+html.secundario{
+    font-size: 1.4rem;
+}
+.clara{
+    background-color: rgb(252,90,78);
+}
+.cor{
+    background-color: rgb(219,78,68);
+}
+.escura{
+    background-color: rgb(186,66,58);
+}
