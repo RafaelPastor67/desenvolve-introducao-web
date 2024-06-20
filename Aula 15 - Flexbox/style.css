@@ -65,7 +65,7 @@ footer a{
     border: solid 2px black;
 }
 
-/*AULA 14 - EXERCICIO ATUAL*/
+/*AULA 14*/
 
 .participation{
     margin-top: 10%;
@@ -83,4 +83,35 @@ footer a{
     top: 560px;
     left: 62%;
     padding: 0 2%;
+}
+/*Aula 15 - EXERCÍCIO ATUAL*/
+
+footer{
+    display: flex;
+    justify-content:space-around;
+    flex-wrap:wrap;
+}
+.benefits{
+    display: flex;
+    flex-direction: row-reverse;
+    border-top: aquamarine 2px solid;
+    border-bottom: aquamarine 2px solid;
+}
+.benefits h3{
+align-self: center;
+flex-basis: 30%;
+align-self: center;
+}
+.benefits p{
+    flex-basis: 70%;
+}
+.participation{
+    display: flex;
+    flex-wrap: wrap;
+    border-top: aquamarine 2px solid;
+    
+}
+.participation h3,.participation p{
+   flex-basis: 50%;
+   
 }
