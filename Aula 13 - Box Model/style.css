@@ -1,3 +1,32 @@
+html{
+    font-family: sans-serif;
+    margin: 1em;
+}
+p{
+    text-indent: 1em;
+}
+h1,h2,h3{
+    text-align: center;
+}
+h1{
+    font-size: 1.8rem;
+}
+h2{
+    font-size: 1.4rem;
+}
+h3{
+    font-size: 1.2rem;
+}
+.explanation,.preamble{
+text-align: right;
+}
+p>.explanation{
+line-height: 1.5rem;
+}
+abbr{
+    font-variant: small-caps;
+}
+
 .page-wrapper{
     width: 80%;
     max-width: 1280px;
