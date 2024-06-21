@@ -1,0 +1,15 @@
+@media screen and (max-width: 680px){
+    main{
+        flex-direction: column-reverse;
+    }
+    .image{
+        width: 100vw;
+    }
+    .assunto{
+        border-right: 0px;
+    }
+    .nv{
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+}
